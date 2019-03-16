@@ -1,0 +1,5 @@
+*.pem
+*.bai
+.RData
+.Rhistory
+.ipynb_checkpoints
